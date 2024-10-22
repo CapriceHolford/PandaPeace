@@ -15,8 +15,17 @@ main {
 }
 
 h1 {
+  background-color: rgba(133, 102, 133, 0.781);
   text-align: center;
   font-family: 'lexend', sans-serif;
+}
+
+/* Navbar */
+.navbar a {
+  color: rgb(25, 25, 83);
+}
+.navbar a:hover {
+  background-color: purple;
 }
 
 /* Cards */
@@ -28,9 +37,20 @@ h1 {
   margin-right: auto;
 }
 
+.card-header {
+  text-align: center;
+}
+
 .card-text {
   font-family: 'lexend', sans-serif;
   font-size: large;
+  text-align: left;
+}
+
+.card-title {
+  font-size: larger;
+  text-align: center;
+  color: purple;
 }
 
 .blockquote {

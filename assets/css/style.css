@@ -14,12 +14,28 @@ main {
   font-family: 'lexend', sans-serif;
 }
 
-h1 {
-  background-color: rgba(133, 102, 133, 0.781);
+.header h1 {
   text-align: center;
   font-family: 'lexend', sans-serif;
   font-weight: bold;
   color: white;
+}
+
+.header img {
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+
+.h4 {
+  font-size: large;
+}
+
+.logo {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Navbar */
@@ -36,7 +52,7 @@ h1 {
 /* Cards */
 
 .card-img-top {
-  width: 300px; 
+  width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -64,6 +80,47 @@ h1 {
   font-size: medium;
 }
 
+/* Jumbotron */
+
 .jumbotext {
   text-align: center;
+  background-color: rgb(218, 176, 218);
+}
+
+.jumboh1 {
+  text-align: center;
+  background-color: rgb(218, 176, 218);
+}
+
+.additional {
+  color: rgb(194, 102, 117);
+  font-weight: bold;
+}
+
+/* Quick Escape */
+
+.quick-escape {
+  position: fixed; /* Sticks to the bottom-right corner of the page */
+  bottom: 10px;  /* Move to the bottom of the screen */
+  right: 10px;   /* Still aligned to the right */
+  padding: 10px 20px;
+  background-color: #ff4d4d; /* Bright color to catch attention */
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 9999; /* Ensures it's always on top */
+  transition: background-color 0.3s ease;
+}
+
+.quick-escape:hover {
+  background-color: #ff3333;
+}
+
+
+.quick-escape:hover {
+    background-color: #ff3333;
 }

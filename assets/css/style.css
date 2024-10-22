@@ -1,18 +1,38 @@
-body{
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+/* Main */
+
+body {
   margin: 0;
+  font-family: 'lexend', sans-serif;
 }
 
-main{
+main {
   margin-left: 20px;
   margin-right: 20px;
+  font-family: 'lexend', sans-serif;
 }
 
-h1{
+h1 {
   text-align: center;
+  font-family: 'lexend', sans-serif;
 }
 
+/* Cards */
 
+.card-img-top {
+  width: 300px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.card-text {
+  font-family: 'lexend', sans-serif;
+  font-size: large;
+}
 
-
-
+.blockquote {
+  font-size: medium;
+}

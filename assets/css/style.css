@@ -18,7 +18,7 @@ main {
   text-align: center;
   font-family: 'lexend', sans-serif;
   font-weight: bold;
-  color: white;
+  color: #ffffff;
 }
 
 .header img {
@@ -46,7 +46,7 @@ main {
 }
 
 .navbar a:hover {
-  background-color: purple;
+  background-color: #800080;
 }
 
 /* Cards */
@@ -72,7 +72,7 @@ main {
 .card-title {
   font-size: larger;
   text-align: center;
-  color: purple;
+  color: #800080;
   font-weight: bold;
 }
 
@@ -84,16 +84,18 @@ main {
 
 .jumbotext {
   text-align: center;
-  background-color: rgb(218, 176, 218);
+  background-color: #dab0da;
+  color: #800080;
 }
 
 .jumboh1 {
   text-align: center;
-  background-color: rgb(218, 176, 218);
+  background-color: #dab0da;
+  color: #800080;
 }
 
 .additional {
-  color: rgb(194, 102, 117);
+  color: #c26675;
   font-weight: bold;
   font-size: medium;
 }
@@ -138,5 +140,5 @@ main {
 #social-networks i {
   font-size: 160%;
   padding: 5%;
-  color: #3a3a3a
+  color: #800080;  
 }

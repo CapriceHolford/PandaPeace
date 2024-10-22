@@ -32,17 +32,52 @@ Acceptance Criteria: A section on Complex PTSD provides detailed information, sy
 Could-Have User Stories
 User Story 1: As a user, I would like to have a chat feature that connects me with mental health support groups or professionals.
 Acceptance Criteria: The site includes a chat feature linked to mental health professionals or support networks.
+
 User Story 2: As a user, I want to have a personal account where I can save articles and resources to read later.
 Acceptance Criteria: Users can create an account and save content to their profile for later access.
 
 ## Design Decisions
+
+### Colour Scheme
+I decided to go for a fairly basic colour scheme as I didn't want to overcomplicate the site as it is meant to be a serious subject. 
+
+- Used `#ff3333` and `#ff4d4d` for the exit button as I needed that to be visually obvious and bright
+- Used `#800080;` for my card titles to make them stand out, my footer icons to also make them stand out and as the colour for when you hover over the navbar elements
+- Used `#dab0da` for my jumbotron background to make it stand out and `#800080` for my jumbotron text to also make it stand out
+- Used `#c26675` for my additional links as I wanted a nice colour
+
+ Used Coolers to showcase my colour palette
+ ![Alt text](assets/Wireframes/colourscheme.jpg)
+
+
+### Typography
+I used googlefonts to find a font I liked, I used the font "Lexend" as I liked the way it looked. 
+I used font awesome for my icons as that's what I had used in previous projects. 
+
+- [Google Fonts](https://fonts.google.com/) was used for all the text on my site. 
+
+
+- [Font Awesome](https://fontawesome.com) was used for the icons in my footer.
 
 ### Wireframes
 ![Alt text](assets/Wireframes/About-Web.png)
 ![Alt text](assets/Wireframes/Home-Web.png)
 ![Alt text](assets/Wireframes/I-Phone%20About.png)
 ![Alt text](assets/Wireframes/I-Phone%20Home.png)
+
+I just did very basic wireframes using Figma as I wasn't sure where I wanted to go in regards to colours etc, I did develop wireframes for both desktop and mobile. 
  
+ ### Tools and Technologies Used 
+ - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main content
+ - [Bootstrap](https://getbootstrap.com/) used for majority of design and layout
+ - [CSS](https://en.wikipedia.org/wiki/CSS) for addtional styling, paired with bootstrap
+ - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) for my quick escape button as that needed JavaScript to function 
+ - [Figma](https://www.figma.com/) for my wireframes 
+ - [Google Fonts](https://fonts.google.com/) For my font 
+ - [Font Awesome](https://fontawesome.com) For my icons
+ - [CatalystStuff](https://www.freepik.com/author/catalyststuff) for my panda images 
+ - [Pixabay](https://pixabay.com/illustrations/depression-fear-lonely-anxious-7065513/) for my complex PTSD image
+
 ### Accessibility Considerations
 Accessibility was a key focus when designing Panda Peace. The site adheres to WCAG guidelines, ensuring all images have appropriate alt text and that there is sufficient colour contrast for readability. Additionally, the use of clear headings and simple language ensures the site is accessible to a broad audience.
 
@@ -92,3 +127,18 @@ I used https://getbootstrap.com/ for the bootstrap elements, I also used ChatGPT
 In future I could add: 
 User Accounts: Adding a feature for users to create accounts and save articles or resources for future reference.
 Chat Functionality: Implementing a chat feature that connects users with mental health professionals or support groups.
+
+## Credits
+All assets below were used to create this website.
+- [Bootstrap](https://getbootstrap.com/) Used for bootstrap elements to ensure they worked properly
+- [W3C](https://validator.w3.org/) Used to check my code 
+- [ChatGPT](https://chatgpt.com/) To generate my JavaScript code as I hadn't used it before 
+ - [Figma](https://www.figma.com/) for my wireframes 
+ - [Google Fonts](https://fonts.google.com/) For my font 
+ - [Font Awesome](https://fontawesome.com) For my icons
+ - [CatalystStuff](https://www.freepik.com/author/catalyststuff) for my panda images 
+ - [Pixabay](https://pixabay.com/illustrations/depression-fear-lonely-anxious-7065513/) for my complex PTSD image
+
+ ## Acknowledgements 
+ - A big thank you to [ShellyM](https://github.com/shellym96) and the Code Institute team for all your support and guidance. Your advice has been super helpful in this journey, and I appreciate everything you’ve done!
+ - Thank you as always to Matthew on my team for the guidance and advice

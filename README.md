@@ -103,7 +103,7 @@ Both the HTML and CSS code were validated using the W3C and Jigsaw validators. A
 ## Deployment
 
 ### Deployment Process
-The deployment process was carried out using GitHub Pages. The main challenge encountered was ensuring the site rendered properly on mobile devices post-deployment, which was resolved by adjusting media queries. I also had a problem with the images and they were not loading. 
+The deployment process was carried out using GitHub Pages. The main challenge encountered was ensuring the site rendered properly on mobile devices post-deployment, which was resolved by adjusting media queries. I also had a problem with the images and they were not loading but managed to fix this, I found the deployment process quite difficult. 
 
 ### Reflection
 ### Successes

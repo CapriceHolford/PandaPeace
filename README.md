@@ -100,14 +100,10 @@ Testing was conducted across multiple devices and browsers using Chrome DevTools
 ### Validation
 Both the HTML and CSS code were validated using the W3C and Jigsaw validators. All major errors were addressed, and warnings were resolved, ensuring the site meets web standards for accessibility and performance. I also checked with chatgpt as well to ensure there were no errors. 
 
-### GitHub Copilot
-Brief reflection on the effectiveness of using AI tools for debugging and validation.  
-**Guidance:** Reflect on how GitHub Copilot assisted with debugging and validation, particularly any issues it helped resolve.
-
 ## Deployment
 
 ### Deployment Process
-The deployment process was carried out using GitHub Pages. The main challenge encountered was ensuring the site rendered properly on mobile devices post-deployment, which was resolved by adjusting media queries.
+The deployment process was carried out using GitHub Pages. The main challenge encountered was ensuring the site rendered properly on mobile devices post-deployment, which was resolved by adjusting media queries. I also had a problem with the images and they were not loading. 
 
 ### Reflection
 ### Successes
@@ -115,10 +111,6 @@ Effective use of GitHub Copilot to streamline coding and debugging tasks.
 Successful integration of the Quick Escape function, enhancing the website's privacy features.
 ### Challenges
 One of the challenges was ensuring consistency across different screen sizes, particularly with button placement and image scaling, which required additional testing and refinement. I also had a hard time making the navbar, it just wouldn't work for me. 
-
-### Final Thoughts
-Provide any additional insights gained during the project and thoughts on the overall process.  
-**Guidance:** Begin drafting reflections during Phase 1 and update throughout the project. Finalize this section after Phase 4. Highlight successes and challenges, particularly regarding the use of AI tools, and provide overall insights into the project.
 
 ## Code Attribution
 I used https://getbootstrap.com/ for the bootstrap elements, I also used ChatGPT to help me write the javascript portion of the site as I haven't learnt javascript yet.
